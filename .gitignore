@@ -13,3 +13,4 @@
 *.dep
 *.hex
 *.zip
+/Projects/ble/SimpleBLEPeripheral/CC2540DB/settings

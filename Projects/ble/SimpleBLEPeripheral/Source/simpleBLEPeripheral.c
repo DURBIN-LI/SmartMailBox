@@ -96,7 +96,7 @@
 #define SBP_PERIODIC_EVT_PERIOD                   5000
 
 // What is the advertising interval when device is discoverable (units of 625us, 160=100ms)
-#define DEFAULT_ADVERTISING_INTERVAL          40//80//160
+#define DEFAULT_ADVERTISING_INTERVAL          64//80//160
 
 // Limited discoverable mode advertises for 30.72s, and then stops
 // General discoverable mode advertises indefinitely
