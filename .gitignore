@@ -1,0 +1,15 @@
+/Projects/ble/SimpleBLEPeripheral/CC2540DB/CC2540
+*.lib
+*.a
+*.o
+*.pbi
+*.xcl
+*.out
+*.xml
+*.bat
+*.html
+*.wsdt
+*.ewt
+*.dep
+*.hex
+*.zip
